@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6f4b5f46-ddc6-472f-b756-6625e3006ab2" name="Changes" comment="Add first page HTML">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/common/src/lib.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/frontend-677a05f1acd92a80.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/frontend-677a05f1acd92a80_bg.wasm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/dist/style-bc3b0ba6af52e788.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/src/main.rs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/frontend/style.css" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Rust File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/.." value="dev" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bg8ibjuo" />
+  </component>
+  <component name="ProjectId" id="2RpUctkzN6gAmdUi49i2HsApL3r" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "frontend",
+    "last_opened_file_path": "/home/mooli/Bureau/Rust/rust/Rustlearn",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.disableDetachedFileInspection/home/mooli/Bureau/Rust/rust/Rustlearn/backend/api/task.rs": "true",
+    "org.rust.disableDetachedFileInspection/home/mooli/Bureau/Rust/rust/Rustlearn/backend/api/user.rs": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "com.intellij.ide.scratch.ScratchImplUtil$2/New Scratch File": [
+      "PLAIN_TEXT"
+    ]
+  }
+}]]></component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f4b5f46-ddc6-472f-b756-6625e3006ab2" name="Changes" comment="" />
+      <created>1687946601804</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687946601804</updated>
+      <workItem from="1687946602812" duration="362000" />
+      <workItem from="1687947019467" duration="109000" />
+      <workItem from="1687947136895" duration="3325000" />
+      <workItem from="1687959355831" duration="1681000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add gitignore">
+      <option name="closed" value="true" />
+      <created>1687947168998</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687947168998</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Init project">
+      <option name="closed" value="true" />
+      <created>1687947839801</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1687947839801</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Add first page HTML">
+      <option name="closed" value="true" />
+      <created>1687957030639</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1687957030639</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add gitignore" />
+    <MESSAGE value="Init project" />
+    <MESSAGE value="Add first page HTML" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add first page HTML" />
+  </component>
+</project>
